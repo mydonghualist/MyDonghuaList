@@ -1,27 +1,17 @@
 ---
-name: Bug Report
-about: Report a bug or broken feature on MyDonghuaList
-title: "[BUG]"
+name: Feature Request
+about: Suggest a new feature or improvement for MyDonghuaList
+title: "[FEATURE]"
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What problem does this solve?**
+A clear description of the problem or gap this feature addresses.
 
-**Steps to reproduce**
-1. Go to '...'
-2. Click on '...'
-3. See error
+**Describe the feature**
+A clear and concise description of what you want to happen.
 
-**Expected behavior**
-What you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain the problem.
-
-**Device info**
-- Device: (e.g. PC, Mobile)
-- OS: (e.g. Windows, Android)
-- Browser: (e.g. Chrome, Firefox)
+**Additional context**
+Add any screenshots, mockups, or examples here.
