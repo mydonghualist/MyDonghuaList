@@ -45,10 +45,14 @@ It allows users to search for series, track their watchlist, rate titles, manage
 
 ## Contributing
 
-We welcome contributions from the community!  
-Found a bug or have a feature request? [Open an issue](https://github.com/mydonghualistapp-oss/MyDonghualistWeb/issues/new/choose) — we have templates to help you get started.
+MyDonghuaList is live at [mydonghualist.com](https://mydonghualist.com).  
+You can contribute by:
 
----
+- Reporting bugs via [Issues](https://github.com/mydonghualist/MyDonghualist/issues/new/choose)
+- Requesting missing Donghua titles
+- Suggesting new features or improvements
+
+We appreciate all feedback from the community!
 
 ## License
 
