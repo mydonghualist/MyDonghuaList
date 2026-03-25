@@ -54,6 +54,22 @@ You can contribute by:
 
 We appreciate all feedback from the community!
 
+---
+
+## Support Us
+
+If you enjoy MyDonghuaList, consider supporting us!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mydonghualist)
+
+---
+
 ## License
 
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
+
+---
+
+<div align="center">
+  Designed & Developed by <strong>MartDaniel</strong>
+</div>
